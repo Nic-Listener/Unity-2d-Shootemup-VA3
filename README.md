@@ -1,1 +1,1 @@
-Jogo 2D Shoot'em Up de aviões como atividade de Jogos Digitais
+Jogo 2D Shoot'em Up de aviões como atividade de Jogos Digitais.
